@@ -1,0 +1,113 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Estilos para o cabeçalho */
+  .header {
+    background-color: #ffffff;
+    padding: 20px;
+  }
+  
+  .logo {
+    width: 150px;
+  }
+  
+  .navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline-block;
+  }
+  
+  .navbar a {
+    color: #333333;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  /* Estilos para a seção de serviços */
+  .services {
+    margin-top: 40px;
+  }
+  
+  .service {
+    background-color: #ffffff;
+    padding: 20px;
+  }
+  
+  .service h3 {
+    color: #333333;
+  }
+  
+  .service p {
+    color: #666666;
+  }
+  
+  /* Estilos para a seção de equipe */
+  .team {
+    margin-top: 40px;
+  }
+  
+  .member {
+    background-color: #ffffff;
+    padding: 20px;
+  }
+  
+  .member h4 {
+    color: #333333;
+  }
+  
+  .member p {
+    color: #666666;
+  }
+  
+  /* Estilos para a seção de contato */
+  .contact {
+     margin-top:40px; 
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+     width:100%; 
+     padding:10px; 
+     margin-bottom:10px; 
+     border-radius:5px; 
+     border:none; 
+     outline:none; 
+  }
+  
+  .contact-form textarea {
+     height:100px; 
+  }
+  
+  .contact-form button {
+     padding:10px 20px; 
+     background-color:#333333; 
+     color:#ffffff; 
+     border:none; 
+     border-radius:5px; 
+     cursor:pointer; 
+  }
+  
+  /* Estilos para o rodapé */
+  .footer {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  
